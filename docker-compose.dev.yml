@@ -25,7 +25,7 @@ services:
     environment:
       MYSQL_USER: user
       MYSQL_PASSWORD: password
-      MYSQL_DATABASE: mydb2
+      MYSQL_DATABASE: mydb
       MYSQL_ROOT_PASSWORD: root
     ports:
       - 3307:3306
